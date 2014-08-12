@@ -1,0 +1,15 @@
+{
+  "_id":{"$oid":"000000000000000000000001"},
+  "photo":"http://www.houghfamilyblog.com/wp-content/uploads/2014/05/chocolate-chip-cookies.jpg",
+  "name":"Chocolate Chip Cookies",
+  "ingredients":["chocolate chips", "butter", "sugar", "brown sugar", "eggs", "vanilla", "baking soda"],
+  "instructions":{"Combine ingredients, bake for 10 minutes at 375 degrees"},
+}
+
+{
+  "_id":{"$oid":"000000000000000000000002"},
+  "photo":"http://1.bp.blogspot.com/_xYsDPu4NJIc/TBaiHHLkhlI/AAAAAAAADCI/-7wh3AYAJNg/s1600/dropsugar.jpg",
+  "name":"Sugar Cookies",
+  "ingredients":["butter", "sugar", "brown sugar", "eggs", "vanilla", "baking soda"],
+  "instructions":{"Combine ingredients, bake for 10 minutes at 375 degrees"},
+}

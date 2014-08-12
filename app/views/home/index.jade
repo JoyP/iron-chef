@@ -2,6 +2,13 @@ extends ../shared/template
 block content
   h2 Home Page!
 
+  each recipe in recipes
+   .recipe(style= 'background-color: gray')
+    span= recipe.photo
+    span= recipe.name
+    span= recipe.ingredients
+    span= recipe.instructions
+
 block scripts
   script(src='/js/user/home.js')
 
